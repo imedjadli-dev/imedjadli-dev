@@ -112,10 +112,16 @@ I specialize in **Node.js, NestJS, and Stripe integrations** with production-rea
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imedjadli-dev&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imedjadli-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=imedjadli-dev&theme=tokyonight" alt="GitHub Streak" width="45%" />
+</p>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=imedjadli-dev&theme=tokyonight"/>
+ 
+</p>
 
+<p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imedjadli-dev&layout=compact&theme=tokyonight"/>
 </p>
  
