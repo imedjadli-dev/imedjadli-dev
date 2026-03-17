@@ -117,12 +117,8 @@ I specialize in **Node.js, NestJS, and Stripe integrations** with production-rea
 <img src="https://nirzak-streak-stats.vercel.app/?user=imedjadli-dev&theme=tokyonight"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imedjadli-dev&layout=compact&theme=tokyonight"/>
-
 </p>
-
-
  
-
 ---
 
 ## 📬 Connect With Me
@@ -131,7 +127,6 @@ I specialize in **Node.js, NestJS, and Stripe integrations** with production-rea
  
 ---
 
-## 🧭 Philosophy
+## ⚡ Fun Facts
+- Coffee enthusiast ☕ +  podcasts always on 🎧  
 
-> "Good code works.  
-> Great code scales, survives, and secures."
