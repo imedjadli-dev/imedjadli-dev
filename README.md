@@ -39,32 +39,6 @@ I specialize in **Node.js, NestJS, and Stripe integrations** with production-rea
 
 ---
 
-## 🔥 Featured Project
-
-### 🛡️ NestJS Auth Boilerplate
-
-> Production-ready authentication system built before any business logic.
-
-**Auth Features:**
-
-- Access Token + Refresh Token Rotation (hashed in DB)  
-- Email Verification (OTP + Queue system)  
-- Password Reset Flow  
-- Role-Based Access Control (USER / ADMIN)  
-- Verified User Guards  
-
-**Why it stands out:**
-
-- Not a tutorial — a **real backend system** ✅  
-- Security-first approach 🔐  
-- Scalable architecture for production ⚡  
-
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/nestjs-auth-boilerplate/blob/main/diagram.png" alt="project architecture" width="600"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
