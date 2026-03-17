@@ -56,7 +56,7 @@ I specialize in **Node.js, NestJS, and Stripe integrations** with production-rea
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/jadliimed/)  
+- 💼 LinkedIn: [jadliimed](https://www.linkedin.com/in/jadliimed/)  
  
 ---
 
