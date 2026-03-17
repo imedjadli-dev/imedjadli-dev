@@ -12,9 +12,6 @@
   <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -24,9 +21,9 @@
 I design **secure, scalable backend systems** for Fintech and SaaS.  
 I specialize in **Node.js, NestJS, and Stripe integrations** with production-ready architecture.
 
-- 🌱 Currently learning **DevOps & CI/CD**
-- 👯 Looking for **Backend roles** (Node.js / NestJS) in **Fintech / SaaS**
-- 👨‍💻 All my projects: [Portfolio](https://portfolio.imedjadli.workers.dev)
+- 🌱 Currently learning **DevOps & CI/CD**  
+- 👯 Looking for **Backend roles** (Node.js / NestJS) in **Fintech / SaaS**  
+- 👨‍💻 All my projects: [Portfolio](https://portfolio.imedjadli.workers.dev)  
 - ⚡ Fun fact: **Coffee enthusiast ☕ + tech podcasts always on!**
 
 ---
@@ -34,17 +31,7 @@ I specialize in **Node.js, NestJS, and Stripe integrations** with production-rea
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,ts,docker,redis,stripe,express,react,redux,tailwind,linux,jest,mysql,postman,photoshop" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imedjadli-dev&show_icons=true&layout=compact" alt="imedjadli-dev" />
-  <img src="https://github-readme-stats.vercel.app/api?username=imedjadli-dev&show_icons=true&locale=en" alt="imedjadli-dev" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imedjadli-dev" alt="imedjadli-dev" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,ts,docker,redis,stripe,express,react,redux,tailwind,linux,jest,mysql,postman,git,sentry,bullmq,insomnia" />
 </p>
 
 ---
@@ -57,12 +44,20 @@ I specialize in **Node.js, NestJS, and Stripe integrations** with production-rea
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imedjadli-dev&show_icons=true&theme=radical&layout=compact" alt="imedjadli-dev Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imedjadli-dev&show_icons=true&theme=radical" alt="imedjadli-dev Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imedjadli-dev&theme=radical" alt="imedjadli-dev Streak" />
+</p>
+
+---
+
 ## 📬 Connect With Me
 
-- 📧 Email: YOUR_EMAIL@example.com  
-- 💼 LinkedIn: [YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)  
-- 🐦 Twitter: [YOUR_TWITTER](https://twitter.com/YOUR_TWITTER)
-
+- 💼 LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/jadliimed/)  
+ 
 ---
 
 ## 🧭 Philosophy
