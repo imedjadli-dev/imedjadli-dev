@@ -47,10 +47,17 @@ I specialize in **Node.js, NestJS, and Stripe integrations** with production-rea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imedjadli-dev&show_icons=true&theme=radical&layout=compact" alt="imedjadli-dev Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=imedjadli-dev&show_icons=true&theme=radical" alt="imedjadli-dev Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imedjadli-dev&theme=radical" alt="imedjadli-dev Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=imedjadli-dev&show_icons=true&theme=tokyonight"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=imedjadli-dev&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imedjadli-dev&layout=compact&theme=tokyonight"/>
+
 </p>
+
+
+ 
 
 ---
 
