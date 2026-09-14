@@ -23,7 +23,7 @@ I specialize in **Node.js, NestJS, and Stripe integrations** with production-rea
 
 - 🌱 Currently learning **DevOps & CI/CD**  
 - 👯 Looking for **Backend roles** (Node.js / NestJS) in **Fintech / SaaS**  
-- 👨‍💻 All my projects: [Portfolio](https://portfolio.imedjadli.workers.dev)  
+- 👨‍💻 All my projects: [Portfolio](https://imedjadli.pages.dev)  
 - ⚡ Fun fact: **Coffee enthusiast ☕ + tech podcasts always on!**
 
 ---
