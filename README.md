@@ -74,6 +74,21 @@ I specialize in **Node.js, NestJS, and Stripe integrations** with production-rea
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
+
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  </a>
+  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
+    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  </a>
+  <a href="https://trivy.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy" />
+  </a>
+  <a href="https://www.sonatype.com/products/sonatype-nexus-repository" target="_blank">
+    <img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white" alt="Nexus" />
+  </a>
+
+  
   <a href="https://insomnia.rest/" target="_blank">
     <img src="https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
   </a>
