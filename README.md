@@ -110,12 +110,11 @@ I specialize in **Node.js, NestJS, and Stripe integrations** with production-rea
 
 ## 📊 GitHub Stats
 
-<p align="center"> 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=imedjadli-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" /> &nbsp;&nbsp; 
-  
-align="center"> 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=imedjadli-dev&layout=compact&theme=tokyonight"/> </p>
+  <img src="https://github-stats-extended.vercel.app/api?username=imedjadli-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=imedjadli-dev&layout=compact&theme=tokyonight" alt="Top Langs" width="45%" />
+</p>
  
 ---
 
