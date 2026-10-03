@@ -133,11 +133,15 @@ I specialize in **Node.js, NestJS, and Stripe integrations** with production-rea
  
 ---
 
-## 📬 Connect With Me
+<div align="center">
 
-<a href="https://www.linkedin.com/in/jadliimed/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+### 🤝 Let's work together
+
+I'm open to full-stack roles, and to relocation.
+
+[![Contact me](https://img.shields.io/badge/Contact_me-imedjadli%40proton.me-1d4ed8?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:imedjadli@proton.me)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,50:1d4ed8,100:0f172a&section=footer" alt="footer" width="100%" />
  
 ---
 
