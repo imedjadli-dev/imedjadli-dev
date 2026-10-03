@@ -1,30 +1,29 @@
-<h1 align="center">Hi 👋, I'm Imed Jadli</h1>
-<h3 align="center">Backend Engineer - Stripe & SaaS Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imedjadli-dev&label=Profile%20views&color=0e75b6&style=flat" alt="imedjadli-dev" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Imed%20Jadli&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20React&descAlignY=60&descSize=18" alt="Imed Jadli banner" width="100%" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/jadliimed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:imedjadli@proton.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-imedjadli.pages.dev-1d4ed8?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://imedjadli.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jadliimed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jadliimed)
+[![Email](https://img.shields.io/badge/Email-imedjadli%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:imedjadli@proton.me)
+
+[![Location](https://img.shields.io/badge/📍_Kasserine,_Tunisia-0f172a?style=for-the-badge)](https://www.google.com/maps/search/?api=1&query=Kasserine%2C%20Tunisia)
+[![Relocation](https://img.shields.io/badge/✈️_Open_to_relocation-0f172a?style=for-the-badge)](#)
+[![Languages](https://img.shields.io/badge/🗣️_AR_native_·_EN_fluent_·_FR_fluent-0f172a?style=for-the-badge)](#)
+
+
+</div>
 
 ---
 
 ## ⚡ About Me
 
-I design **secure, scalable backend systems** for Fintech and SaaS.  
-I specialize in **Node.js, NestJS, and Stripe integrations** with production-ready architecture.
+Full-stack engineer with 1 year 9 months of professional experience (Sep 2023 – Jun 2025) building SaaS platforms for clients in France, from Figma-based React interfaces to the REST APIs behind them.
 
-- 🌱 Currently learning **DevOps & CI/CD**  
-- 👯 Looking for **Backend roles** (Node.js / NestJS) in **Fintech / SaaS**  
-- 👨‍💻 All my projects: [Portfolio](https://imedjadli.pages.dev)  
-- ⚡ Fun fact: **Coffee enthusiast ☕ + tech podcasts always on!**
+💳 Shipped Stripe payments, subscriptions, Connect and webhooks on a reservation platform </br>
+🔐 Built JWT + RBAC authentication with OTP email verification and password reset </br>
+☁️ Handled file uploads with AWS S3 and tuned slow PostgreSQL queries </br>
+🐞 Debugged production issues with Sentry and fixed failing GitLab CI pipelines </br>
+🔧 Currently learning DevOps: Jenkins, SonarQube, Nexus, Trivy, Ansible
 
 ---
 
@@ -111,16 +110,6 @@ I specialize in **Node.js, NestJS, and Stripe integrations** with production-rea
   </a>
 </p>
 
- 
-
----
-
-## 🚧 Currently Building
-
-- 💳 Advanced **Stripe integrations** (subscriptions, webhooks, Connect)  
-- ⚙️ **SaaS-ready backend architecture**  
-- 🐳 **DevOps fundamentals** (Docker, CI/CD)
-
 ---
 
 ## 📊 GitHub Stats
@@ -142,9 +131,6 @@ I'm open to full-stack roles, and to relocation.
 [![Contact me](https://img.shields.io/badge/Contact_me-imedjadli%40proton.me-1d4ed8?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:imedjadli@proton.me)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,50:1d4ed8,100:0f172a&section=footer" alt="footer" width="100%" />
- 
----
 
-## ⚡ Fun Facts
-- Coffee enthusiast ☕ +  podcasts always on 🎧  
+</div>
 
